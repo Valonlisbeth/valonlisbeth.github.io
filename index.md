@@ -3,8 +3,8 @@ title: "Sarah Ledjou"
 layout: archive
 excerpt: "I try to learn how to do a website with Github."
 header:
-  image: /assets/images/168009_1699340295816_3374705_n.jpg
-  teaser: /assets/images/168009_1699340295816_3374705_n.jpg
+  image: /assets/images/wall-1409911384_mechanical-hummingbird.jpg
+  teaser: /assets/images/wall-1409911384_mechanical-hummingbird.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/168009_1699340295816_3374705_n.jpg
