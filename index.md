@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/jens-lelie-15662-th.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/octobermake00.gif
+    image: /assets/images/168009_1699340295816_3374705_n.jpg
     image_alt: "me"
     text: "Explorer"
   - title: "Responsibilities"
